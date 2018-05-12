@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25801'
     url: http://www.gutenberg.org/2009/agents/25801
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39225#Modern-Machine-Shop-Practice-Volumes-I-and-II
 gutenberg_issued: '2012-03-21'
 gutenberg_type: Text
 identifiers:
